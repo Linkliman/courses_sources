@@ -13,3 +13,10 @@
 
 4. [Sets](3_sets.py)  
    Learn about Python sets, an unordered collection of unique elements, and how to perform set operations.
+
+
+## Useful resources
+
+- [PEP8](https://peps.python.org/pep-0008/)
+   Official naming convention for Python
+- 

@@ -19,6 +19,9 @@ _country = "USA"
 # 1user = "Jane"   # Variable name cannot start with a number
 # @score = 90      # Variable name cannot contain special characters like @, $, etc.
 
+# PEP8
+# Complete naming convention could be find in PEP 8: https://peps.python.org/pep-0008/
+
 # 3. Basic Variable Types
 
 # Integer (int) - Whole numbers without decimals
