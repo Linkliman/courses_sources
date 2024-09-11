@@ -113,7 +113,3 @@ print(matrix[1][2])  # Output: 6 (third element of the second row)
 # List comprehension with nested lists:
 flattened = [item for row in matrix for item in row]
 print(flattened)  # Output: [1, 2, 3, 4, 5, 6, 7, 8, 9]
-
-# Conclusion:
-# You've now learned the basics of lists in Python, including how to create, modify, slice, and use list comprehensions.
-# Lists are one of the most flexible data structures in Python, and mastering them is key to becoming proficient in Python programming.

@@ -174,7 +174,3 @@ print(dict_a)  # Output: {'name': 'Alice', 'age': 28, 'job': 'Developer', 'city'
 # 12. Dictionary Performance Notes
 # - Dictionaries in Python use hash tables, making them extremely efficient for lookups, insertions, and deletions.
 # - The average time complexity for these operations is O(1).
-
-# Conclusion:
-# Dictionaries are a powerful and flexible data structure in Python. They allow for fast lookups, storing key-value pairs, 
-# and can be nested for more complex data storage. Mastering dictionaries is essential for Python programming.
