@@ -7,3 +7,5 @@ Welcome to Python part of my **Computer Science Tutorials**.
 1. [Basics](basics)  
    Learn basics in Python.
 
+2. [Advanced](advanced)
+   Learn advanced skills in Python
