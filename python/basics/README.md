@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-0. [Variables](0_variables.py)  
+0. [Variables](00_variables.py)  
    Learn everything about Python variables, including types, naming conventions, scope, and more.
 
 1. [Lists](01_lists.py)  
